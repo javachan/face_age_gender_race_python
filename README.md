@@ -6,6 +6,6 @@ Model created with UTKFace dataset which is you can download from [here](https:/
 
 # MODELS 
 
-You must create you models after you downloaded dataset.
+You must create you models after you download dataset.
 
 ![GIF](https://media.giphy.com/media/9M52fOHSCcZrVAIYzU/giphy.gif)
