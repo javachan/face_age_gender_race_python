@@ -4,4 +4,8 @@
 
 Model created with UTKFace dataset which is you can download from [here](https://susanqq.github.io/UTKFace/)
 
+# MODELS 
+
+You must create you models after you downloaded dataset.
+
 ![GIF](https://media.giphy.com/media/9M52fOHSCcZrVAIYzU/giphy.gif)
